@@ -1,8 +1,8 @@
 
 <template>
-  <div class="flex flex-row">
+  <div class="flex flex-row relative h-screen">
     <side-bar></side-bar>
-    <div class="pl-16 w-full">
+    <div class="pl-16 pb-16 flex-1 h-full overflow-auto">
       <nav-bar></nav-bar>
       <home-page></home-page>
     </div>
