@@ -96,7 +96,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="flex flex-row grow h-auto bg-white pt-8">
+                <div class="flex flex-row grow h-fit bg-white pt-8">
                     <ranks></ranks>
                 </div>
             </div>
