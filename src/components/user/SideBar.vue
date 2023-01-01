@@ -1,5 +1,5 @@
 <template>
-    <div class="h-screen bg-[#faf8f7] py-6 px-1 flex flex-col text-center text-xs drop-shadow-2xl sticky top-0">
+    <div class="h-screen bg-[#faf8f7] py-6 px-1 flex flex-col text-center text-xs drop-shadow-2xl sticky top-0 z-20">
         <div class="my-8 ">
             <span class="rounded-full p-4 bg-white">Logo</span>
         </div>

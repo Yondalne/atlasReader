@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-row justify-between py-10 sticky top-0 bg-white w-full z-10">
+    <div class="pl-16 flex flex-row justify-between py-10 sticky top-0 bg-white w-full z-10">
         <div class="flex flex-row grow align-middle text-[#516A90] font-bold">
             <h2 class="py-3 mr-5">Hot : </h2>
             <a href="" class="rounded-full drop-shadow-xl text-black border border-solid border-neutral-300 ml-5 py-3 px-5"># Test</a>

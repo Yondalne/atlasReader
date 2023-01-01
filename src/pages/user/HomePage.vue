@@ -1,5 +1,5 @@
 <template>
-    <div class="h-auto pr-16">
+    <div class="h-auto px-16">
         <top-reads></top-reads>
         <div class="flex flex-row gap-x-32 mt-16">
             <recent-publishes></recent-publishes>

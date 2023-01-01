@@ -2,7 +2,7 @@
 <template>
   <div class="flex flex-row relative h-screen">
     <side-bar></side-bar>
-    <div class="pl-16 pb-16 flex-1 h-full overflow-auto">
+    <div class="pb-16 flex-1 h-full overflow-auto">
       <nav-bar></nav-bar>
       <router-view></router-view>
     </div>
